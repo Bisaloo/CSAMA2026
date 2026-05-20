@@ -14,7 +14,7 @@ website:
     site-name:
       "CSAMA 2026"
     image: "images/CSAMA2026.png"
-  announcement: 
+  announcement:
     icon: info-circle
     dismissable: true
     content: "**Registration is now open!** **New**: accommodation options available. Visit the [Registration](/registration.qmd) page for more details."
@@ -53,7 +53,7 @@ website:
 #            text: Intro to Quarto
 #          - href: lab/3_regression/randomness_and_linear.html
 #            text: Regression
-#          - href: lab/4_bulk-rnaseq/rnaseqGene_CSAMA2025.html
+#          - href: lab/4_bulk-rnaseq/rnaseqGene_CSAMA.html
 #            text: Bulk RNA-seq analysis
 #          - href: lab/5_single-cell-rnaseq/eda_qc.html
 #            text: ScRNA-seq EDA
@@ -89,11 +89,11 @@ website:
         text: Contacts
       - href: installation.qmd
         text: Installation
-  page-footer: 
+  page-footer:
     left: "Copyright (c) 2025, European Bioconductor Society e.V. </br>
-  The European Bioconductor Society e.V. is 
-  a registered association in Germany created to support 
-  Bioconductor's mission to promote open source software 
+  The European Bioconductor Society e.V. is
+  a registered association in Germany created to support
+  Bioconductor's mission to promote open source software
   in the life sciences and statistics."
   favicon: "images/CSAMA2026.png"
 
@@ -112,5 +112,5 @@ format:
     date-format: iso
     include-in-header:
       - text: |
-          <meta http-equiv="Cache-Control" content="max-age=1800, must-revalidate"> 
+          <meta http-equiv="Cache-Control" content="max-age=1800, must-revalidate">
     lightbox: true
