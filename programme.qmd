@@ -77,6 +77,8 @@
 | 15:30-17:00                               | **Lab:** Trajectory analysis                                                                                                                 |
 | 15:30-17:00                               | **Lab:** Interactive exploration with iSEE                                                                                                   |
 | 15:30-17:00                               | **Lab:** Working with Image Data                                                                                                             |
+| 15:30-17:00                               | **Lab:** Analysis with SpatialData                                                                                                           |
+| 15:30-17:00                               | **Lab:** Adaptive immune receptor repertoires                                                                                                |
 | 17:00-17:30                               | **Flashlight talks**                                                                                                                         |
 | <font color="teal">**Fri 29 May**</font> |                                                                                                                                              |
 | 08:30-09:15                               | **Lecture:** Design of High Throughput Experiments and their Analysis                                                                        |
