@@ -28,22 +28,21 @@
 | 18:00-20:00                               | Get together with drinks                                                                                                                     |
 | <font color="teal">**Mon 25 May**</font>  |                                                                                                                                              |
 | 08:30-09:15                               | **Lecture:** Introduction to Bioconductor                                                                                                    |
-| 09:15-10:00                               | **Lecture:** What do we aim to measure and why: applications in transcriptomics                                                              |
+| 09:15-10:00                               | **Lecture:** Annotation and annotation resources                                                              |
 | 10:00-10:30                               | *\~\~\~ Coffee \~\~\~*                                                                                                                       |
 | 10:30-11:15                               | **Lecture:** Regression: randomness and linear models                                                                                        |
-| 11:15-12:00                               | **Lecture:** Hypothesis testing                                                                                                              |
+| 11:15-12:00                               | **Lecture:** Hypothesis testing: making decisions based on noisy and finite data                                                                                                               |
 | 12:00-12:30                               | **Discussion in the garden**                                                                                                              |
 | 12:30-14:00                               | *\~\~\~ Lunch break \~\~\~*                                                                                                                  |
 | 14:00-15:30                               | **Lab:** R and Bioconductor basics                                                                                                           |
 | 15:30-16:00                               | *\~\~\~ Coffee \~\~\~*                                                                                                                       |
-| 16:00-17:00                               | **Lab continuation**                                                                                                                         |
-| 17:00-17:30                               | **Intro to Project Groups (optional)**                                                                                                       |
+| 16:00-17:30                               | **Lab continuation**                                                                                                                         |
 | 20:10-22:00                               | **Evening session:** Drinks will be provided                                                                                                 |
 | <font color="teal">**Tue 26 May**</font>  |                                                                                                                                              |
-| 08:30-09:15                               | **Lecture:** RNA-Seq differential expression                                                                                                 |
-| 09:15-10:00                               | **Lecture:** Dimension reduction: PCA and other low-dimensional embeddings                                                                   |
+| 08:30-09:15                               | **Lecture:** Introduction to RNA-seq: preprocessing steps, quantification                                                                                                 |
+| 09:15-10:00                               | **Lecture:** RNA-Seq differential expression                                                                   |
 | 10:00-10:30                               | *\~\~\~ Coffee \~\~\~*                                                                                                                       |
-| 10:30-11:15                               | **Lecture:** Chromatin accessibility and ATAC-seq                                                                                            |
+| 10:30-11:15                               | **Lecture:** Dimension reduction: PCA and other low-dimensional embeddings                                                                                            |
 | 11:15-12:00                               | **Lecture:** Single-cell RNA-seq: exploration, quality control, low-dimensional embeddings                                                   |
 | 12:00-12:30                               | **Discussion in the garden**
 | 12:30-14:00                               | *\~\~\~ Lunch break \~\~\~*                                                                                                                  |
@@ -54,19 +53,19 @@
 | 17:00-17:30                               | **Flashlight talks**                                                                                                                         |
 | 20:10-22:00                               | **Evening session:** Drinks will be provided                                                                                                 |
 | <font color="teal">**Wed 27 May**</font>  |                                                                                                                                              |
-| 08:30-09:15                               | **Lecture:** Distances, nearest-neighbour graphs and clustering                                                                              |
-| 09:15-10:00                               | **Lecture:** Multi-condition single cell RNA-seq I: pseudo-bulking, double-dipping                                                           |
+| 08:30-09:15                               | **Lecture:** Multi-condition single cell RNA-seq I: pseudo-bulking, double-dipping                                                                              |
+| 09:15-10:00                               | **Lecture:** Multi-condition single cell RNA-seq II: when is the right time to categorize?                                                           |
 | 10:00-10:30                               | *\~\~\~ Coffee \~\~\~*                                                                                                                       |
-| 10:30-11:15                               | **Lecture:** Multi-condition single cell RNA-seq II: when is the right time to categorize?                                                   |
-| 11:15-12:00                               | **Lecture:** Introduction to spatial omics                                                                                                   |
+| 10:30-11:15                               | **Lecture:** Introduction to spatial omics                                                   |
+| 11:15-12:00                               | **Lecture:** Statistical methods for spatial transcriptomics                                                                                                   |
 | 12:00-14:00                               | *\~\~\~ Lunch break \~\~\~*                                                                                                                  |
 | 14:00-17:00                               | **Social Programme:** Excursion to the mountains and dinner. |
 | <font color="teal">**Thu 28 May**</font> |                                                                                                                                              |
 | 08:30-09:15                               | **Lecture:** Mass spectrometry-based proteomics including single-cell                                                                        |
 | 09:15-10:00                               | **Lecture:** Mass spectrometry-based metabolomics                                                                                            |
 | 10:00-10:30                               | *\~\~\~ Coffee \~\~\~*                                                                                                                       |
-| 10:30-11:15                               | **Lecture:** Statistical methods for spatial omics                                                                                                                          |
-| 11:15-12:00                               | **Lecture:** Bioconductor advanced topics: annotation resources, language interoperation                                                                                                    |
+| 10:30-11:15                               | **Lecture:** Computational immunology and immunoinformatics                                                                                                                          |
+| 11:15-12:00                               | **Lecture:** Bioconductor advanced topics: LLMs, agents, coding helpers                                                                                                    |
 | 12:00-12:30                               | **Discussion in the garden**
 | 12:30-14:00                               | *\~\~\~ Lunch break \~\~\~*                                                                                                                  |
 | 14:00-14:45                               | **Lab:** Proteomics                                                                                           |
@@ -81,12 +80,12 @@
 | 17:00-17:30                               | **Flashlight talks**                                                                                                                         |
 | <font color="teal">**Fri 29 May**</font> |                                                                                                                                              |
 | 08:30-09:15                               | **Lecture:** Design of High Throughput Experiments and their Analysis                                                                        |
-| 09:15-10:00                               | **Lecture:** Machine learning                                                                                                                |
+| 09:15-10:00                               | **Lecture:** Machine learning and AI                                                                                                                |
 | 10:00-10:30                               | *\~\~\~ Coffee \~\~\~*                                                                                                                       |
 | 10:30-11:15                               | **Lecture:** Deep learning for digital pathology                                                                                             |
-| 11:15-12:00                               | **Panel discussion:** The use of LLM in biology: challenges and perspectives                                                                 |
+| 11:15-12:00                               | **Panel discussion:** Reproducibility                                                                 |
 | 12:00                                     | **Closing remarks**                                                                                                                          |
 | 12:30-14:00                               | *\~\~\~ Lunch break \~\~\~*                                                                                                                  |
 | 14:00-15:30                               | **Career panel discussion**                                                                                                                  |
 | 15:30-16:00                               | *\~\~\~ Coffee \~\~\~*                                                                                                                       |
-| 16:00-16:30                               | **Group project presentations**                                                                                                              |
+| 16:00-16:30                               | **Informal discussion in the garden**                                                                                                              |
