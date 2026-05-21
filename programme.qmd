@@ -53,8 +53,8 @@
 | 17:00-17:30                               | **Flashlight talks**                                                                                                                         |
 | 20:10-22:00                               | **Evening session:** Drinks will be provided                                                                                                 |
 | <font color="teal">**Wed 27 May**</font>  |                                                                                                                                              |
-| 08:30-09:15                               | **Lecture:** Multi-condition single cell RNA-seq I: pseudo-bulking, double-dipping                                                                              |
-| 09:15-10:00                               | **Lecture:** Multi-condition single cell RNA-seq II: when is the right time to categorize?                                                           |
+| 08:30-09:15                               | **Lecture:** Distances and Clustering                                                                              |
+| 09:15-10:00                               | **Lecture:**  Multi-condition single cell RNA-seq I: pseudo-bulking, double-dipping                                                           |
 | 10:00-10:30                               | *\~\~\~ Coffee \~\~\~*                                                                                                                       |
 | 10:30-11:15                               | **Lecture:** Introduction to spatial omics                                                   |
 | 11:15-12:00                               | **Lecture:** Statistical methods for spatial transcriptomics                                                                                                   |
@@ -65,7 +65,7 @@
 | 09:15-10:00                               | **Lecture:** Mass spectrometry-based metabolomics                                                                                            |
 | 10:00-10:30                               | *\~\~\~ Coffee \~\~\~*                                                                                                                       |
 | 10:30-11:15                               | **Lecture:** Computational immunology and immunoinformatics                                                                                                                          |
-| 11:15-12:00                               | **Lecture:** Bioconductor advanced topics: LLMs, agents, coding helpers                                                                                                    |
+| 11:15-12:00                               | **Lecture:** Multi-condition single cell RNA-seq II: when is the right time to categorize?                                                                                                    |
 | 12:00-12:30                               | **Discussion in the garden**
 | 12:30-14:00                               | *\~\~\~ Lunch break \~\~\~*                                                                                                                  |
 | 14:00-14:45                               | **Lab:** Proteomics                                                                                           |
@@ -85,7 +85,7 @@
 | 09:15-10:00                               | **Lecture:** Machine learning and AI                                                                                                                |
 | 10:00-10:30                               | *\~\~\~ Coffee \~\~\~*                                                                                                                       |
 | 10:30-11:15                               | **Lecture:** Deep learning for digital pathology                                                                                             |
-| 11:15-12:00                               | **Panel discussion:** Reproducibility                                                                 |
+| 11:15-12:00                               | **Panel discussion:** Bioconductor advanced topics: LLMs, agents, coding helpers                                                                 |
 | 12:00                                     | **Closing remarks**                                                                                                                          |
 | 12:30-14:00                               | *\~\~\~ Lunch break \~\~\~*                                                                                                                  |
 | 14:00-15:30                               | **Career panel discussion**                                                                                                                  |
