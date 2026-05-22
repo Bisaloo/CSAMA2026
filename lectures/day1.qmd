@@ -1,6 +1,6 @@
 ---
 title: "Day 1"
-subtitle: "Mon 7 July"
+subtitle: "Mon June 25"
 format: html
 ---
 
@@ -16,9 +16,9 @@ Welcome to Day 1! Below you'll find the lectures and materials to explore. Click
 
 ---
 
-## 📘 What do we aim to measure and why: Applications in transcriptomics {#transcriptomics}
+## 📘 Annotation and annotation resources {#annotation}
 
-🔗 [Open slides](https://bit.ly/csama-rna-seq-intro)
+🔗 [Open slides + source code](https://github.com/jorainer/jos-csama-contributions/tree/2026/lectures/annotation)
 
 ---
 
