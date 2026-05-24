@@ -24,7 +24,7 @@ Welcome to Day 1! Below you'll find the lectures and materials to explore. Click
 
 ## 📘 Regression: randomness and linear models {#Regression}
 
-🔗 [Open slides](https://bioconductor.github.io/CSAMA-labs/regression/randomness_and_linear.html)
+🔗 [Open slides](linearmodel_short.html)
 
 ---
 
