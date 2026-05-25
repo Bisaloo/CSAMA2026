@@ -1,6 +1,6 @@
 ---
 title: "Day 3"
-subtitle:  "Wed 9 July"
+subtitle:  "Wed 27 May"
 format: html
 ---
 
@@ -14,12 +14,14 @@ Materials coming soon.
 
 ## 📘 Multi-condition single cell RNA-seq I: pseudo-bulking, double-dipping {#scRNA-adv}
 
-🔗 [Open slides](https://drive.google.com/file/d/1fVtabaDMzThY92MqD3igHH-7JAHVGC-X/view?usp=sharing)
+🔗 [Open slides](https://drive.google.com/file/d/1uZ5hNPQK3DyolQWf1tm_WmWEcgRnAesE/view?usp=sharing) by Charlotte Soneson
 
-## 📘 Multi-condition single cell RNA-seq II: when is the right time to categorize? {#scRNA-DEA}
-
-🔗 [Open slides](https://docs.google.com/presentation/d/16eELRfthxSorWfFwP98m6H36qeUrz1lzpxDPYnzq3PA/edit?usp=sharing)
 
 ## 📘 Introduction to spatial omics 
 
 🔗 [Open slides](https://drive.google.com/file/d/10ifLrtgMaTc_dXcaT4uDDPMxAyF6kAx2/view?usp=drive_link)
+
+
+## 📘 Statistical methods for spatial transcriptomics
+
+Materials coming soon.
