@@ -12,31 +12,31 @@ Welcome to Day 1! Below you'll find the lectures and materials to explore. Click
 
 ## 📘 Introduction to CSAMA2026 {#intro_CSAMA}
 
-🔗 [Open slides](https://docs.google.com/presentation/d/1-5XIai0wz8ooMapQrmHJE_LLxVvBxWVwgRMlq7GMqBs/edit?usp=sharing)
+🔗 [Open slides](https://docs.google.com/presentation/d/1-5XIai0wz8ooMapQrmHJE_LLxVvBxWVwgRMlq7GMqBs/edit?usp=sharing) by Davide Risso
 
 ## 📘 Introduction to Bioconductor {#intro}
 
-🔗 [Open slides](https://drive.google.com/file/d/1uFPuOCo-3ZqaTmSXpasWLPtL5YhYNxEw/view?usp=drive_link)
+🔗 [Open slides](https://drive.google.com/file/d/1uFPuOCo-3ZqaTmSXpasWLPtL5YhYNxEw/view?usp=drive_link) By Vince Carey
 
 ---
 
 ## 📘 Annotation and annotation resources {#annotation}
 
-🔗 [Open slides](annotation-and-annotation-resources.html)
+🔗 [Open slides](annotation-and-annotation-resources.html) by Johannes Rainer
 
 🔗 [source code](https://github.com/jorainer/jos-csama-contributions/tree/2026/lectures/annotation)
-
+ 
 ---
 
 ## 📘 Regression: randomness and linear models {#Regression}
 
-🔗 [Open slides](linearmodel_short.html)
+🔗 [Open slides](linearmodel_short.html) by Davide Risso
 
 ---
 
 ## 📘 Hypothesis testing {#HT}
 
-🔗 [Open slides](https://docs.google.com/presentation/d/13S3A2gWKo0noX0nFIIJIfqKGsUBgTMnGLzLH9D8_c4g/edit?usp=sharing)
+🔗 [Open slides](https://docs.google.com/presentation/d/13S3A2gWKo0noX0nFIIJIfqKGsUBgTMnGLzLH9D8_c4g/edit?usp=sharing) by Wolfgang Huber
 
 
 **📖 Further reading:**  
