@@ -10,6 +10,10 @@ Welcome to Day 1! Below you'll find the lectures and materials to explore. Click
 
 ---
 
+## 📘 Introduction to CSAMA2026 {#intro_CSAMA}
+
+🔗 [Open slides](https://docs.google.com/presentation/d/1-5XIai0wz8ooMapQrmHJE_LLxVvBxWVwgRMlq7GMqBs/edit?usp=sharing)
+
 ## 📘 Introduction to Bioconductor {#intro}
 
 🔗 [Open slides](https://drive.google.com/file/d/1uFPuOCo-3ZqaTmSXpasWLPtL5YhYNxEw/view?usp=drive_link)

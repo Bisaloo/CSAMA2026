@@ -31,10 +31,10 @@ website:
         text: Home
       - href: programme.qmd
         text: Programme
-     - text: Lectures
-       menu:
-         - href: lectures/day1.qmd
-           text: Day 1
+      - text: Lectures
+        menu:
+          - href: lectures/day1.qmd
+            text: Day 1
 #          - href: lectures/day2.qmd
 #            text: Day 2
 #          - href: lectures/day3.qmd
