@@ -22,7 +22,9 @@ Welcome to Day 1! Below you'll find the lectures and materials to explore. Click
 
 ## 📘 Annotation and annotation resources {#annotation}
 
-🔗 [Open slides + source code](https://github.com/jorainer/jos-csama-contributions/tree/2026/lectures/annotation)
+🔗 [Open slides](annotation-and-annotation-resources.html)
+
+🔗 [source code](https://github.com/jorainer/jos-csama-contributions/tree/2026/lectures/annotation)
 
 ---
 
