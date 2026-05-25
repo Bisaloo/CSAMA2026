@@ -24,6 +24,10 @@ jobs:
 
     - uses: r-lib/actions/setup-pandoc@v2
 
+    - name: Install system dependencies
+      run: |
+        sudo apt install cmake gsfonts libcurl4-openssl-dev libmagick++-dev libnode-dev libpng-dev pandoc
+
     - uses: r-lib/actions/setup-renv@v2
 
     - uses: quarto-dev/quarto-actions/render@v2
