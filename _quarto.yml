@@ -45,14 +45,14 @@ website:
 #            text: Day 5
 #          - href: lectures/links.qmd
 #            text: Useful resources
-#      - text: Labs
-#        menu:
-#          - href: lab/1_intro-to-r-bioc/lab-1-intro-to-r-bioc.html
-#            text: Intro to R and Bioconductor
-#          - href: lab/2_quarto-intro/2_quarto-intro.qmd
-#            text: Intro to Quarto
-#          - href: lab/3_regression/randomness_and_linear.html
-#            text: Regression
+      - text: Labs
+        menu:
+          - href: lab/1_intro-to-r-bioc/lab-1-intro-to-r-bioc.html
+            text: Intro to R and Bioconductor
+          - href: lab/2_quarto-intro/2_quarto-intro.qmd
+            text: Intro to Quarto
+          - href: lab/3_regression/randomness_and_linear.html
+            text: Regression
 #          - href: lab/4_bulk-rnaseq/rnaseqGene_CSAMA.html
 #            text: Bulk RNA-seq analysis
 #          - href: lab/5_single-cell-rnaseq/eda_qc.html
