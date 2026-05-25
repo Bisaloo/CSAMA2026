@@ -16,7 +16,7 @@ Welcome to Day 1! Below you'll find the lectures and materials to explore. Click
 
 ## 📘 Introduction to Bioconductor {#intro}
 
-🔗 [Open slides](https://drive.google.com/file/d/1uFPuOCo-3ZqaTmSXpasWLPtL5YhYNxEw/view?usp=drive_link) by Vince Carey
+🔗 [Open slides](https://github.com/vjcitn/csama26vjc/blob/main/intro2026.md) by Vince Carey
 
 ---
 
